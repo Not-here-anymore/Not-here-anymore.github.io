@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Challenge 11 - "I committed a mistake..."</title>
+    <link rel="stylesheet" href="../assets/css/style.css">
+</head>
+<body>
+    <header>
+        <h1>Challenge 11: "I committed a mistake..."</h1>
+    </header>
+
+    <section class="challenge-details">
+        <h2>Details:</h2>
+        <p>During the development of this site, I accidentally disclosed the flag file. Luckily, I was able to revert that.</p>
+        <p>Your task is to find the flag file that was accidentally disclosed before it was reverted. Use your OSINT skills to find traces of it!</p>
+    </section>
+
+    <footer>
+        <p><a href="../index.html">Back to Challenges</a></p>
+    </footer>
+</body>
+</html>
